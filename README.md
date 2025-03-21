@@ -46,8 +46,16 @@ My journey in Cybersecurity has led me to develop a passion for penetration test
     <img src="https://img.shields.io/badge/-Searchsploit-FF4500?&style=for-the-badge&logo=searchengin&logoColor=white" />
 
 
-    
 
+</div>
+
+### Development & Scripting Tools
+
+<div> 
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 
 </div>
 
@@ -80,7 +88,7 @@ My journey in Cybersecurity has led me to develop a passion for penetration test
 </div>
 
 ## Projects
-- Detection lab
+- CYBERSECURITY CHALLENGES & CTF (SELF-LEARNING & PRACTICE)
 - Investigation of Network Security
 - Vulnerability Assesment using Nmap and Metasploit
 - Reverse Engineering Analysis Report
