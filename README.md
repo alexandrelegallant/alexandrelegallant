@@ -9,7 +9,7 @@ apply my technical knowledge in a hands-on cybersecurity internship to enhance m
 ## Objective
 
 
-My journey in Cybersecurity has led me to develop a passion for penetration testing & Blue teaming analysis, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst & develop more my Ethical Hacking skills.
+Passionate about penetration testing and Blue Team analysis, I aim to join a SOC as a Tier 1 Analyst while enhancing my ethical hacking skills. Eager to apply my knowledge in the WIL program, I bring hands-on experience with tools like Kali Linux, Splunk, Wireshark, and Metasploit, along with Python and Bash scripting. This opportunity will help me refine my threat detection, incident response, and problem-solving skills for a successful cybersecurity career.
 
 ## Skills
 
