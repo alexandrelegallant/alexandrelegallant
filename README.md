@@ -2,7 +2,9 @@
 <a href="https://www.linkedin.com/in/alexandre-legallant/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-A dedicated cybersecurity student at ECU with a strong foundation in vulnerability assessment and network security. Passionate about Blue and Red Teaming. Looking forward to apply my practical and technical knowledge in a hands-on cybersecurity internship.
+A dedicated cybersecurity student at ECU with strong foundational knowledge in identifying vulnerabilities and analysing 
+network traffic, and passionate in Blue and Red Teaming. Skilled using Linux, Splunk, Burp Suite and Wireshark. Eager to 
+apply my technical knowledge in a hands-on cybersecurity internship to enhance my skills and contribute effectively. 
 
 ## Objective
 
