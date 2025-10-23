@@ -2,9 +2,7 @@
 <a href="https://www.linkedin.com/in/alexandre-legallant/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-A dedicated cybersecurity student at ECU with strong foundational knowledge in identifying vulnerabilities and analysing 
-network traffic, and passionate in Blue and Red Teaming. Skilled using Linux, Splunk, Burp Suite and Wireshark. Eager to 
-apply my technical knowledge in a hands-on cybersecurity internship to enhance my skills and contribute effectively. 
+Highly motivated and technically skilled cybersecurity student at Edith Cowan University with practical experience in vulnerability testing, incident analysis, and network defense. Passionate for Blue and Red Teaming with strong analysis and problem-solving capabilities. Experienced with ELK Stack, MITRE ATT&CK mapping, and threat analysis through industry-based projects. Proficient in English and French language and with highly developed communication and team-working abilities. 
 
 ## Objective
 
