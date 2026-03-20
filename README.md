@@ -2,22 +2,22 @@
 <a href="https://www.linkedin.com/in/alexandre-legallant/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Highly motivated and technically skilled cybersecurity student at Edith Cowan University with practical experience in vulnerability testing, incident analysis, and network defense. Passionate for Blue and Red Teaming with strong analysis and problem-solving capabilities. Experienced with ELK Stack, MITRE ATT&CK mapping, and threat analysis through industry-based projects. Proficient in English and French language and with highly developed communication and team-working abilities. 
+Cybersecurity student at Edith Cowan University with a passion for networking, Security Operations Center (SOC) Analyst and ethical hacking. Experienced in vulnerability testing, incident response, and defending systems - while also enjoying thinking like the attacker (for the right reasons, of course).
 
+Worked with ELK Stack, MITRE ATT&CK, and real-world security scenarios, developing strong analytical and problem-solving skills. Naturally curious, always learning, and not afraid to break things (ethically) to understand how to protect them better.
+
+Fluent in English and French, and a strong believer that good communication is just as important as good security.
 ## Objective
 
 
-Passionate about penetration testing and Blue Team analysis, I aim to join a SOC as a Tier 1 Analyst while enhancing my ethical hacking skills. Eager to apply my knowledge in the WIL program, I bring hands-on experience with tools like Kali Linux, Splunk, Wireshark, and Metasploit, along with Python and Bash scripting. This opportunity will help me refine my threat detection, incident response, and problem-solving skills for a successful cybersecurity career.
+My goal is to grow my cybersecurity skills through projects and certifications, not just to learn, but to actually apply and prove them in real-world scenarios. I’m focused on building practical experience, solving challenges, and continuously improving — because in cybersecurity, there’s always something new to figure out.
 
 ## Skills
 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| TryHack and PicoCTF CHALLENGES & CTF                                 | <a href="https://github.com/alexandrelegallant/Network-Investigation-security/tree/main">Detection Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM & Threat Analysis (ELK Stack, MITRE ATT&CK)          | <a href="https://github.com/alexandrelegallant/Network-Investigation-security/tree/main">Threat Detection & MITRE ATT&CK Mapping Lab</a>|
 
 ## Tools
 
@@ -25,22 +25,8 @@ Passionate about penetration testing and Blue Team analysis, I aim to join a SOC
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Netdiscover-1E90FF?&style=for-the-badge&logo=gnu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-007ACC?&style=for-the-badge&logo=metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-CC0000?&style=for-the-badge&logo=snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logo=gnu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?&style=for-the-badge&logo=burp-suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nikto-00A9E0?&style=for-the-badge&logo=nikto&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hydra-FF5C5C?&style=for-the-badge&logo=hydra&logoColor=white" />
-    <img src="https://img.shields.io/badge/-John%20the%20Ripper-FF8000?&style=for-the-badge&logo=key&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hashcat-FF6F00?&style=for-the-badge&logo=hashcat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-WhatWeb-00A9E0?&style=for-the-badge&logo=whatweb&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wappalyzer-5D8D4B?&style=for-the-badge&logo=wappalyzer&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ARP%20Scan-FF8000?&style=for-the-badge&logo=apple&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cowrie-FF6347?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Gobuster-FF6347?&style=for-the-badge&logo=apache&logoColor=white" />
-    <img src="https://img.shields.io/badge/-DirBuster-00BFFF?&style=for-the-badge&logo=apache&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Searchsploit-FF4500?&style=for-the-badge&logo=searchengin&logoColor=white" />
 
 
 
@@ -51,7 +37,6 @@ Passionate about penetration testing and Blue Team analysis, I aim to join a SOC
 <div> 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 
 </div>
@@ -64,13 +49,13 @@ Passionate about penetration testing and Blue Team analysis, I aim to join a SOC
   <img src="https://img.shields.io/badge/-Hybrid%20Analysis-00B0F0?&style=for-the-badge&logo=google-chrome&logoColor=white" />
   <img src="https://img.shields.io/badge/-AnyRun-FF6600?&style=for-the-badge&logo=google-chrome&logoColor=white" />
   <img src="https://img.shields.io/badge/-Triage-00CC66?&style=for-the-badge&logo=google-analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Detect%20It%20Easy-0066CC?&style=for-the-badge&logo=github&logoColor=white" />
 
 
 </div>
 
 ### SIEM
 <div>
+    <img src="https://img.shields.io/badge/-ELK%20Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
 </div>
@@ -79,17 +64,11 @@ Passionate about penetration testing and Blue Team analysis, I aim to join a SOC
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%20Awareness%20Training-006F99?&style=for-the-badge&logo=isc2&logoColor=white" />
-<img src="https://img.shields.io/badge/-Ethical%20Hacking%20TCM%20Security-FF5733?&style=for-the-badge&logo=ethereum&logoColor=white" />
   
 </div>
 
 ## Projects
-- CYBERSECURITY CHALLENGES & CTF (SELF-LEARNING & PRACTICE)
-- Investigation of Network Security
-- Vulnerability Assesment using Nmap and Metasploit
-- Reverse Engineering Analysis Report
-- Digital Forensic Investigation Report
+- Cybersecurity Honeypot Deployment and Threat Analysis Project
 <!--
 **alexandrelegallant/alexandrelegallant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
