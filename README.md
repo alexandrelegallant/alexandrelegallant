@@ -17,7 +17,7 @@ My goal is to grow my cybersecurity skills through projects and certifications, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM & Threat Analysis (ELK Stack, MITRE ATT&CK)          | <a href="https://github.com/alexandrelegallant/Network-Investigation-security/tree/main">Threat Detection & MITRE ATT&CK Mapping Lab</a>|
+| SIEM & Threat Analysis (ELK Stack, MITRE ATT&CK)          | <a href="https://github.com/alexandrelegallant/Threat-Detection-MITRE-ATT-CK-Mapping-Lab/tree/main">Threat Detection & MITRE ATT&CK Mapping Lab</a>|
 
 ## Tools
 
@@ -68,7 +68,7 @@ My goal is to grow my cybersecurity skills through projects and certifications, 
 </div>
 
 ## Projects
-- Cybersecurity Honeypot Deployment and Threat Analysis Project
+- <a href="https://github.com/alexandrelegallant/Threat-Detection-MITRE-ATT-CK-Mapping-Lab/tree/main">Threat Detection & MITRE ATT&CK Mapping Lab</a>
 <!--
 **alexandrelegallant/alexandrelegallant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
