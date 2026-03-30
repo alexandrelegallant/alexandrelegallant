@@ -18,6 +18,7 @@ My goal is to grow my cybersecurity skills through projects and certifications, 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM & Threat Analysis (ELK Stack, MITRE ATT&CK)          | <a href="https://github.com/alexandrelegallant/Threat-Detection-MITRE-ATT-CK-Mapping-Lab/tree/main">Threat Detection & MITRE ATT&CK Mapping Lab</a>|
+| System Hardening & Infrastructure Security          | <a href="https://github.com/alexandrelegallant/Threat-Detection-MITRE-ATT-CK-Mapping-Lab/tree/main">Game Server Security Hardening (Proxmox Environment)</a>|
 
 ## Tools
 
@@ -69,6 +70,7 @@ My goal is to grow my cybersecurity skills through projects and certifications, 
 
 ## Projects
 - <a href="https://github.com/alexandrelegallant/Threat-Detection-MITRE-ATT-CK-Mapping-Lab/tree/main">Threat Detection & MITRE ATT&CK Mapping Lab</a>
+- Game Server Security Hardening (Proxmox Environment)
 <!--
 **alexandrelegallant/alexandrelegallant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
