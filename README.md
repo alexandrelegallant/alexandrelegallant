@@ -70,6 +70,7 @@ My goal is to grow my cybersecurity skills through projects and certifications, 
 </div>
 
 ## Projects
+- <a href="https://github.com/alexandrelegallant/soc-log-analysis-python-splunk">Linux Log Analysis, Python Automation & SIEM Visualisation with Splunk</a>
 - <a href="https://github.com/alexandrelegallant/Threat-Detection-MITRE-ATT-CK-Mapping-Lab/tree/main">Threat Detection & MITRE ATT&CK Mapping Lab</a>
 - <a href="https://github.com/alexandrelegallant/Game-Server-Security-Hardening-Proxmox-Environment-">Game Server Security Hardening (Proxmox Environment)</a>
 <!--
