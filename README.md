@@ -19,7 +19,6 @@ My goal is to grow my cybersecurity skills through projects and certifications, 
 |-----------------------------------------------|----------------------------|
 | Security Log Analysis & SIEM Monitoring (Python, Splunk)         | <a href="https://github.com/alexandrelegallant/soc-log-analysis-python-splunk">Linux Log Analysis, Python Automation & SIEM Visualisation with Splunk</a>|
 | SIEM & Threat Analysis (ELK Stack, MITRE ATT&CK)          | <a href="https://github.com/alexandrelegallant/Threat-Detection-MITRE-ATT-CK-Mapping-Lab/tree/main">Threat Detection & MITRE ATT&CK Mapping Lab</a>|
-| System Hardening & Infrastructure Security          | <a href="https://github.com/alexandrelegallant/Game-Server-Security-Hardening-Proxmox-Environment-">Game Server Security Hardening (Proxmox Environment)</a>|
 
 ## Tools
 
@@ -72,7 +71,6 @@ My goal is to grow my cybersecurity skills through projects and certifications, 
 ## Projects
 - <a href="https://github.com/alexandrelegallant/soc-log-analysis-python-splunk">Linux Log Analysis, Python Automation & SIEM Visualisation with Splunk</a>
 - <a href="https://github.com/alexandrelegallant/Threat-Detection-MITRE-ATT-CK-Mapping-Lab/tree/main">Threat Detection & MITRE ATT&CK Mapping Lab</a>
-- <a href="https://github.com/alexandrelegallant/Game-Server-Security-Hardening-Proxmox-Environment-">Game Server Security Hardening (Proxmox Environment)</a>
 <!--
 **alexandrelegallant/alexandrelegallant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
