@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/alexandre-legallant/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Cybersecurity student at Edith Cowan University with a passion for networking, Security Operations Center (SOC) Analyst and ethical hacking. Experienced in vulnerability testing, incident response, and defending systems - while also enjoying thinking like the attacker (for the right reasons, of course).
+Cybersecurity student at Edith Cowan University, focused on vulnerability analysis, SOC workflows, network security, and ethical hacking.
 
-Worked with ELK Stack, MITRE ATT&CK, and real-world security scenarios, developing strong analytical and problem-solving skills. Naturally curious, always learning, and not afraid to break things (ethically) to understand how to protect them better.
+I enjoy learning how systems connect, how they can be attacked, and how defenders can detect, investigate, and secure them. My hands-on projects include log analysis, SIEM monitoring, threat detection, vulnerability testing, incident response, and security visualisation using tools such as ELK Stack, Splunk, Python, and MITRE ATT&CK.
 
-Fluent in English and French, and a strong believer that good communication is just as important as good security.
+Fluent in English and French, with strong communication skills and a continuous learning mindset.
 ## Objective
 
 
