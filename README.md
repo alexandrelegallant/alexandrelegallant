@@ -10,7 +10,9 @@ Fluent in English and French, with strong communication skills and a continuous 
 ## Objective
 
 
-My goal is to grow my cybersecurity skills through projects and certifications, not just to learn, but to actually apply and prove them in real-world scenarios. I’m focused on building practical experience, solving challenges, and continuously improving — because in cybersecurity, there’s always something new to figure out.
+My goal is to grow as a cybersecurity professional by building practical projects, earning relevant certifications, and applying what I learn in realistic scenarios.
+
+I’m focused on developing hands-on experience in vulnerability analysis, SOC workflows, log analysis, SIEM monitoring, networking, and ethical hacking. I aim to keep improving through continuous learning, problem-solving, and project-based practice — because in cybersecurity, there is always something new to investigate, understand, and secure.
 
 ## Skills
 
