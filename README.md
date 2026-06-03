@@ -21,7 +21,7 @@ I’m focused on developing hands-on experience in vulnerability analysis, SOC w
 
 Participated in an AI × Cyber Security Hackathon focused on helping WA Government agencies better prioritise and act on cyber threats and vulnerabilities.
 
-For this hackathon, I developed **<a href="https://github.com/alexandrelegallant/riskcompass-ai">RiskCompass AI</a>**, a human-in-the-loop cyber risk prioritisation prototype designed to transform structured vulnerability and security alert data into clear, explainable, and policy-aligned action plans.
+For this hackathon, we developed **<a href="https://github.com/alexandrelegallant/riskcompass-ai">RiskCompass AI</a>**, a human-in-the-loop cyber risk prioritisation prototype designed to transform structured vulnerability and security alert data into clear, explainable, and policy-aligned action plans.
 
 ### 🧭 RiskCompass AI — WA Government Cyber Threat Prioritisation Tool
 Human-in-the-loop cyber risk prioritisation tool built for the AI × Cyber Security Hackathon. It scores vulnerability and alert data, maps risks to WA Government policy areas, flags DGov escalation requirements, and uses Claude AI to generate executive briefings and incident response guidance.
