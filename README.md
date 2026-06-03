@@ -20,7 +20,7 @@ I’m focused on developing hands-on experience in vulnerability analysis, SOC w
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Log Analysis & SIEM Monitoring (Python, Splunk)         | <a href="https://github.com/alexandrelegallant/soc-log-analysis-python-splunk">Linux Log Analysis, Python Automation & SIEM Visualisation with Splunk</a>|
-| Security Log Analysis & SIEM Monitoring (Python, Splunk)         | <a href="https://github.com/alexandrelegallant/soc-log-analysis-python-splunk">RiskCompass AI - WA Government Cyber Threat Prioritisation Tool</a>|
+| AI-assisted cybersecurity risk prioritisation         | <a href="https://github.com/alexandrelegallant/soc-log-analysis-python-splunk">RiskCompass AI - WA Government Cyber Threat Prioritisation Tool</a>|
 | SIEM & Threat Analysis (ELK Stack, MITRE ATT&CK)          | <a href="https://github.com/alexandrelegallant/Threat-Detection-MITRE-ATT-CK-Mapping-Lab/tree/main">Threat Detection & MITRE ATT&CK Mapping Lab</a>|
 
 ## Tools
