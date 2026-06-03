@@ -21,7 +21,7 @@ I’m focused on developing hands-on experience in vulnerability analysis, SOC w
 
 Participated in an AI × Cyber Security Hackathon focused on helping WA Government agencies better prioritise and act on cyber threats and vulnerabilities.
 
-For this hackathon, I developed **RiskCompass AI**, a human-in-the-loop cyber risk prioritisation prototype designed to transform structured vulnerability and security alert data into clear, explainable, and policy-aligned action plans.
+For this hackathon, I developed **<a href="https://github.com/alexandrelegallant/riskcompass-ai">RiskCompass AI</a>**, a human-in-the-loop cyber risk prioritisation prototype designed to transform structured vulnerability and security alert data into clear, explainable, and policy-aligned action plans.
 
 
 
@@ -30,7 +30,7 @@ For this hackathon, I developed **RiskCompass AI**, a human-in-the-loop cyber ri
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Log Analysis & SIEM Monitoring (Python, Splunk)         | <a href="https://github.com/alexandrelegallant/soc-log-analysis-python-splunk">Linux Log Analysis, Python Automation & SIEM Visualisation with Splunk</a>|
-| AI-assisted cybersecurity risk prioritisation         | <a href="https://github.com/alexandrelegallant/soc-log-analysis-python-splunk">RiskCompass AI - WA Government Cyber Threat Prioritisation Tool</a>|
+| AI-assisted cybersecurity risk prioritisation         | <a href="https://github.com/alexandrelegallant/riskcompass-ai">RiskCompass AI - WA Government Cyber Threat Prioritisation Tool</a>|
 | SIEM & Threat Analysis (ELK Stack, MITRE ATT&CK)          | <a href="https://github.com/alexandrelegallant/Threat-Detection-MITRE-ATT-CK-Mapping-Lab/tree/main">Threat Detection & MITRE ATT&CK Mapping Lab</a>|
 
 
@@ -85,7 +85,7 @@ For this hackathon, I developed **RiskCompass AI**, a human-in-the-loop cyber ri
 ## Projects
 - <a href="https://github.com/alexandrelegallant/soc-log-analysis-python-splunk">Linux Log Analysis, Python Automation & SIEM Visualisation with Splunk</a>
 - <a href="https://github.com/alexandrelegallant/Threat-Detection-MITRE-ATT-CK-Mapping-Lab/tree/main">Threat Detection & MITRE ATT&CK Mapping Lab</a>
-- <a href="https://github.com/alexandrelegallant/Threat-Detection-MITRE-ATT-CK-Mapping-Lab/tree/main">RiskCompass AI - WA Government Cyber Threat Prioritisation Tool</a>
+- <a href="https://github.com/alexandrelegallant/riskcompass-ai">RiskCompass AI - WA Government Cyber Threat Prioritisation Tool</a>
 <!--
 **alexandrelegallant/alexandrelegallant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
