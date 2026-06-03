@@ -14,14 +14,23 @@ My goal is to grow as a cybersecurity professional by building practical project
 
 I’m focused on developing hands-on experience in vulnerability analysis, SOC workflows, log analysis, SIEM monitoring, networking, and ethical hacking. I aim to keep improving through continuous learning, problem-solving, and project-based practice — because in cybersecurity, there is always something new to investigate, understand, and secure.
 
-## Skills
 
+## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Log Analysis & SIEM Monitoring (Python, Splunk)         | <a href="https://github.com/alexandrelegallant/soc-log-analysis-python-splunk">Linux Log Analysis, Python Automation & SIEM Visualisation with Splunk</a>|
 | AI-assisted cybersecurity risk prioritisation         | <a href="https://github.com/alexandrelegallant/soc-log-analysis-python-splunk">RiskCompass AI - WA Government Cyber Threat Prioritisation Tool</a>|
 | SIEM & Threat Analysis (ELK Stack, MITRE ATT&CK)          | <a href="https://github.com/alexandrelegallant/Threat-Detection-MITRE-ATT-CK-Mapping-Lab/tree/main">Threat Detection & MITRE ATT&CK Mapping Lab</a>|
+
+## 🏆 Hackathon Participation
+
+### 🤖 AI × Cyber Security Hackathon - Bloom × CyberWest Hub × WA Office of Digital Government
+
+Participated in an AI × Cyber Security Hackathon focused on helping WA Government agencies better prioritise and act on cyber threats and vulnerabilities.
+
+For this hackathon, I developed RiskCompass AI, a human-in-the-loop cyber risk prioritisation prototype designed to transform structured vulnerability and security alert data into clear, explainable, and policy-aligned action plans.
+
 
 ## Tools
 
