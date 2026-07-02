@@ -17,7 +17,7 @@ I’m focused on developing hands-on experience in vulnerability analysis, SOC w
 
 ## 🏆 Hackathon Participation
 
-### 🤖 AI × Cyber Security Hackathon - Bloom × CyberWest Hub × WA Office of Digital Government
+### 🤖 AI × Cyber Security Hackathon - Bloom × CyberWest Hub × WA Office of Digital Government 2026
 
 Participated in an AI × Cyber Security Hackathon focused on helping WA Government agencies better prioritise and act on cyber threats and vulnerabilities.
 
